@@ -63,7 +63,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.https://mayureshsingh304.wixsite.com/my-site-1/cdn/Gmail.png?v=3' border='0' alt='Portfolio https://mayureshsingh304.wixsite.com/my-site-1' /></a>
+<a href='https://mayureshsingh304.wixsite.com/my-site-1' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://mayureshsingh304.wixsite.com/my-site-1/cdn/Gmail.png?v=3' border='0' alt='Portfolio https://mayureshsingh304.wixsite.com/my-site-1' /></a>
 </div>
 
 <br/>
